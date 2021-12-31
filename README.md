@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cjfaire
+- 👀 I’m interested in building the future.
+- 🌱 I’m currently learning how to develop 3-D interfaces.
+- 💞️ I’m looking to collaborate on video games, logic programming.
+- 📫 How to reach me cjfaire@gmail.com
